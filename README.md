@@ -1,4 +1,4 @@
-# CSE112-22-Assignment-SimplleAssemblerSimulator
+# CSE112-22-Assignment-SimpleAssemblerSimulator
 
 This repository holds the frame of your project.
 Please download the entire folder and make no modifications to the frame.
